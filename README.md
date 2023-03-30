@@ -1,2 +1,2 @@
-# Itybe
+# TheServerGames
 The Server games
